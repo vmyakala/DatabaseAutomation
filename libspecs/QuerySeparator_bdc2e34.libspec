@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="QuerySeparator" type="library" format="ROBOT" generated="20191125 11:10:22">
+<version></version>
+<scope>test case</scope>
+<namedargs>yes</namedargs>
+<doc>Documentation for library ``QuerySeparator``.</doc>
+<kw name="Get Queries From Log File">
+<arguments>
+<arg>filePath</arg>
+</arguments>
+<doc></doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>
